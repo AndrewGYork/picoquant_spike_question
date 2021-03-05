@@ -12,8 +12,8 @@ Anybody else seeing this?
 
 Here it is again in a dye solution, with a different timebinning.
 
+<img src="./hand_annotated/1_dye_solution.png" alt="Many yeast, with a lifetime histogram, with a spike at 20 ns" width="600">
+
 Usually when I debug, I built the instrument, so I know where all the bodies are buried. I always feel a bit helpless trying to debug a commercial instrument.
 
 This has to be simple, right? What am I missing?
-
-<img src="./hand_annotated/1_dye_solution.png" alt="Many yeast, with a lifetime histogram, with a spike at 20 ns" width="600">
