@@ -1,9 +1,13 @@
 #!/usr/bin/python
+# Standard library imports:
 from pathlib import Path
 import urllib.request
+# Respectable third-party imports:
 import numpy as np
 import matplotlib.pyplot as plt
-from tifffile import imread, imwrite 
+from tifffile import imread, imwrite
+# My stuff, available at github.com/AndrewGYork/tools
+# There's a copy in this repo for simplicity:
 import picoquant_tttr as pq
 
 def main():
