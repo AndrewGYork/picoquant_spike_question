@@ -1,0 +1,33 @@
+###############
+Hey microscopy twitter: can you help me track down an artifact?
+
+Our @LeicaMicro SP8 with a @PicoQuant lifetime system gives a spike in the lifetime histogram at 20 ns. Anybody know why?
+
+I made a github repo with sample data and code to demonstrate:
+
+https://github.com/AndrewGYork/picoquant_spike_question
+
+Image attachment: 
+2_a_few_yeast.png
+
+
+###############
+The relative magnitude of the signal is smaller when the sample gives more signal.
+
+Anybody else seeing this? Please tag your favorite FLIM experts, especially folks familiar with @picoquant
+
+@BerkeleyMIC @adernburg @MillerChemBio @melissa_skala 
+
+Image attachment: 
+3_many_yeast.png
+
+
+###############
+Here it is again in a dye solution, with a different timebinning.
+
+Usually when I debug, I built the instrument, so I know where all the bodies are buried. I always feel a bit helpless trying to debug a commercial instrument.
+
+This has to be simple, right? What am I missing?
+
+Image attachment:
+1_dye_solution.png
