@@ -1,3 +1,5 @@
+[Join the discussion via Twitter](https://twitter.com/AndrewGYork/status/1367924231023984641)
+
 Hey microscopy folks: can you help me track down an artifact?
 
 Our Leica SP8 with a PicoQuant lifetime system gives a spike in the lifetime histogram at 20 ns. Anybody know why?
